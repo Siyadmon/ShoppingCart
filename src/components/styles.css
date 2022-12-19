@@ -1,0 +1,13 @@
+.centerPos {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.display-list {
+  display: flex;
+}
+.products-list img {
+  height: 350px;
+}
